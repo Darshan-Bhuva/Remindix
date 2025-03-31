@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795721527482",
+    "project_id": "things-reminder-df483",
+    "storage_bucket": "things-reminder-df483.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795721527482:android:9f1938668721a315e41283",
+        "android_client_info": {
+          "package_name": "com.example.things_reminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkWLAnKV0mgRPORpvme1KCBMr97iLTtIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
